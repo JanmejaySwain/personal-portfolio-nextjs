@@ -205,7 +205,7 @@ function HeroSection() {
                 <span className="mr-2 text-orange-400">String</span>
                 <span className="mr-2 text-white">name</span>
                 <span className="text-pink-500">=</span>
-                <span className="text-gray-400">{'"'}</span>
+                <span className="text-gray-400">&quot;</span>
                 {/* <span className="text-gray-400">&quot;</span> */}
 
                 <span className="text-amber-300">Janmejay Swain</span>

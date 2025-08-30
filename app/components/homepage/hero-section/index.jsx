@@ -206,8 +206,12 @@ function HeroSection() {
                 <span className="mr-2 text-white">name</span>
                 <span className="text-pink-500">=</span>
                 <span className="text-gray-400">{'"'}</span>
+                {/* <span className="text-gray-400">&quot;</span> */}
+
                 <span className="text-amber-300">Janmejay Swain</span>
                 <span className="text-gray-400">{'";'}</span>
+
+                {/* <span className="text-gray-400">&quot;;</span> */}
               </div>
 
               <div className="ml-4 lg:ml-8 mr-2">
@@ -216,25 +220,25 @@ function HeroSection() {
                 <span className="mr-2 text-white">skills</span>
                 <span className="text-pink-500">=</span>
                 <span className="text-gray-400">{'{'}</span>
-                <span className="text-amber-300">"Java"</span>
+                <span className="text-amber-300">&quot;Java&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"Spring Boot"</span>
+                <span className="text-amber-300">&quot;Spring Boot&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"Hibernate JPA"</span>
+                <span className="text-amber-300">&quot;Hibernate JPA&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"Microservices"</span>
+                <span className="text-amber-300">&quot;Microservices&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"REST API"</span>
+                <span className="text-amber-300">&quot;REST API&quot; </span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"PostgreSQL"</span>
+                <span className="text-amber-300">&quot;PostgreSQL&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"Cassandra"</span>
+                <span className="text-amber-300">&quot;Cassandra&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"Redis"</span>
+                <span className="text-amber-300">&quot;Redis&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"AWS"</span>
+                <span className="text-amber-300">&quot;AWS&quot;</span>
                 <span className="text-gray-400">, </span>
-                <span className="text-amber-300">"GCP"</span>
+                <span className="text-amber-300">&quot;GCP&quot;</span>
                 <span className="text-gray-400">{'};'}</span>
               </div>
 

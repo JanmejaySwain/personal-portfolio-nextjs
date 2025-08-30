@@ -210,9 +210,9 @@ function HeroSection() {
                 {/* <span className="text-gray-400">&quot;</span> */}
 
                 <span className="text-amber-300">Janmejay Swain</span>
-                <span className="text-gray-400">{'";'}</span>
+                {/* <span className="text-gray-400">{'";'}</span> */}
 
-                {/* <span className="text-gray-400">&quot;;</span> */}
+                <span className="text-gray-400">&quot;;</span>
               </div>
 
               <div className="ml-4 lg:ml-8 mr-2">
@@ -220,7 +220,9 @@ function HeroSection() {
                 <span className="mr-2 text-orange-400">String[]</span>
                 <span className="mr-2 text-white">skills</span>
                 <span className="text-pink-500">=</span>
-                <span className="text-gray-400">{'{'}</span>
+                {/* <span className="text-gray-400">{'{'}</span> */}
+                <span className="text-gray-400">{'};'}</span>
+
                 <span className="text-amber-300">&quot;Java&quot;</span>
                 <span className="text-gray-400">, </span>
                 <span className="text-amber-300">&quot;Spring Boot&quot;</span>

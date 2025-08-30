@@ -13,6 +13,6 @@ export const personalData = {
   twitter: 'https://x.com/janmeja00737810',
   stackOverflow: 'https://stackoverflow.com/users/31378049/janmejay-swain',
   leetcode: "",
-  devUsername: "janmejay_swain",
+  devUsername: "janmejayswain",
   resume: "https://drive.google.com/drive/folders/1IiyuuW3hNvihFEYosp3htGFGkHRWKcDE"
 }

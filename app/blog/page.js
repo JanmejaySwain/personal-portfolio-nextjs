@@ -11,9 +11,10 @@ async function getBlogs() {
   if (!res.ok) {
     throw new Error('Failed to fetch data')
   }
+  // console.log("Raw json data ",res);
 
   const data = await res.json();
-
+  // console.log("Raw json data "+data);
   return data;
 };
 
